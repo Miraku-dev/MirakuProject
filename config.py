@@ -1,0 +1,4 @@
+API_TOKEN = '1875873809:AAGoPwA0nmkVHuq4bJjulxf53QIowrRZvF0' 
+MY_ID = 1114809448
+
+DB_FILENAME = 'botuploads.db'
