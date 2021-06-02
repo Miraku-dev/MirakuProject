@@ -3,3 +3,10 @@ chardet==4.0.0
 idna==2.10
 requests==2.25.1
 urllib3==1.26.5
+aiogram==3.7.2
+sql==0.4.0
+SQLAlchemy==1.4.7
+pyTelegramBotAPI==3.7.6
+asyncio==3.4.3
+PyGithub==1.55
+requests==2.25.1
